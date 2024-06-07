@@ -1,16 +1,16 @@
-## Hi there 👋
+## seja bem vindo ao meu perfil 🐈‍⬛
 
-<!--
-**anin5a/anin5a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é Ana Luiza
 
-Here are some ideas to get you started:
+- sou estudante do ensino médio
+- faço parte do grêmio estudantil da escola
+- tenho 16 anos
+- faço academia
+- quero fazer faculdade de biologia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### você pode entrar em contato comigo 📧
+  analu15062000@gmail.com
+
+  @anaa_souza._
+
+ ![](https://media1.tenor.com/m/gZU3n_9Nv2EAAAAC/cat-cat-stare.gif)
